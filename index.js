@@ -9,7 +9,7 @@ They are content with you staying, but you wonder if you should alert the world
 to this magical safe haven. Type Stay or Spread the word.`)
 if(thirdAnswer === 'Stay'){
     let fourthanswer = window.alert ('You live happily amongst the cats for the rest of your days.')
-}else if(thirdanswer === 'Spread the word.'){
+}else if(thirdanswer === 'Spread the word'){
     let fourthanswer = window.alert ('After leaving the cat colony, you are never able to find it again; without proof, no one believes your story, which passes into legend nonetheless.'
 )}
 }else if(secondAnswer === 'Continue'){
